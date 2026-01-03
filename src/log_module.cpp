@@ -19,6 +19,7 @@
 
 #include <time.h>
 #include <string.h>
+#include <pthread.h>
 
 #ifndef __linux__
 #include <comutil.h>  
